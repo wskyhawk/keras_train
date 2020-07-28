@@ -2,7 +2,7 @@
 
 
 
-2、训练数据的格式为“C:/xxx/训练结果/xxx.png”,比如训练数据“C:/fenlei/0/abc.png”。那么0表示准确的结果，abc.png，则为切割后的图片。附件fenlei.rar为训练数据集
+2、训练数据的格式为“C:/xxx/训练结果/xxx.png”,比如训练数据“C:/fenlei/0/abc.png”。那么0表示准确的结果，abc.png，则为切割后的图片。附件fenlei.rar为训练数据集模板，当然也能拿来跑跑
 
 
 
